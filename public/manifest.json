@@ -1,0 +1,6 @@
+{
+  "short_name": "Trimmer",
+  "name": "Trimmer Audio Editor",
+  "start_url": ".",
+  "display": "standalone"
+}
